@@ -26,5 +26,5 @@ git checkout -b feature-login
 git pull --rebase
 ## Anulate Kumar kuMAR class geet nitish hi
 ## Anulate Kumar kuMAR Maurysa 
-## Anulate Kumar kuMAR Maurysa git kumar maurya
+## Anulate Kumar kuMAR Maurysa git kumar maurya anish
 
