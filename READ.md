@@ -25,7 +25,7 @@ git branch
 git checkout -b feature-login
 git pull --rebase
 <<<<<<<<< Temporary merge branch 1
-## Anulate Kumar kuMAR class geet nitish
+## Anulate Kumar kuMAR class geet nitish hi
 =========
 ## Anulate Kumar kuMAR Maurysa 
 >>>>>>>>> Temporary merge branch 2
