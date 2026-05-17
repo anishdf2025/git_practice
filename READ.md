@@ -27,5 +27,5 @@ git pull --rebase
 <<<<<<<<< Temporary merge branch 1
 ## Anulate Kumar kuMAR class geet
 =========
-## Anulate Kumar kuMAR Maurysa
+## Anulate Kumar kuMAR Maurysa git kumar maurya
 >>>>>>>>> Temporary merge branch 2
