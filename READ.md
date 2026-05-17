@@ -24,4 +24,8 @@ git commit -m "first commit"
 git branch
 git checkout -b feature-login
 git pull --rebase
+<<<<<<<<< Temporary merge branch 1
 ## Anulate Kumar kuMAR class geet
+=========
+## Anulate Kumar kuMAR Maurysa
+>>>>>>>>> Temporary merge branch 2
